@@ -1,0 +1,144 @@
+Crop,Year,Element,Yield_kg_per_ha,Unit
+Apples,2013,Yield,6137.8,kg/ha
+Apples,2014,Yield,7978.8,kg/ha
+Apples,2015,Yield,6689.7,kg/ha
+Apples,2016,Yield,9101.1,kg/ha
+Apples,2017,Yield,7426.2,kg/ha
+Apples,2018,Yield,7730.9,kg/ha
+Apples,2019,Yield,7519.5,kg/ha
+Apples,2020,Yield,9077.4,kg/ha
+Apples,2021,Yield,7271.6,kg/ha
+Apples,2022,Yield,8219.0,kg/ha
+Apples,2023,Yield,9460.5,kg/ha
+Areca nuts,2013,Yield,1365.5,kg/ha
+Areca nuts,2014,Yield,1376.1,kg/ha
+Areca nuts,2015,Yield,1660.0,kg/ha
+Areca nuts,2016,Yield,1506.3,kg/ha
+Areca nuts,2017,Yield,1589.0,kg/ha
+Areca nuts,2018,Yield,1676.1,kg/ha
+Areca nuts,2019,Yield,1726.1,kg/ha
+Areca nuts,2020,Yield,1850.1,kg/ha
+Areca nuts,2021,Yield,1968.5,kg/ha
+Areca nuts,2022,Yield,1962.3,kg/ha
+Areca nuts,2023,Yield,1459.5,kg/ha
+Cauliflowers and broccoli,2013,Yield,19619.4,kg/ha
+Cauliflowers and broccoli,2014,Yield,19760.0,kg/ha
+Cauliflowers and broccoli,2015,Yield,19284.7,kg/ha
+Cauliflowers and broccoli,2016,Yield,18990.6,kg/ha
+Cauliflowers and broccoli,2017,Yield,18848.0,kg/ha
+Cauliflowers and broccoli,2018,Yield,19134.7,kg/ha
+Cauliflowers and broccoli,2019,Yield,19533.3,kg/ha
+Cauliflowers and broccoli,2020,Yield,19145.6,kg/ha
+Cauliflowers and broccoli,2021,Yield,19503.2,kg/ha
+Cauliflowers and broccoli,2022,Yield,19887.7,kg/ha
+Cauliflowers and broccoli,2023,Yield,19446.0,kg/ha
+"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2013,Yield,8500.0,kg/ha
+"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2014,Yield,8473.9,kg/ha
+"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2015,Yield,8428.1,kg/ha
+"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2016,Yield,8466.4,kg/ha
+"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2017,Yield,8454.4,kg/ha
+"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2018,Yield,8424.8,kg/ha
+"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2019,Yield,8390.5,kg/ha
+"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2020,Yield,8700.2,kg/ha
+"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2021,Yield,8504.6,kg/ha
+"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2022,Yield,8531.0,kg/ha
+"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2023,Yield,8578.4,kg/ha
+"Coconuts, in shell",2013,Yield,5574.8,kg/ha
+"Coconuts, in shell",2014,Yield,5607.3,kg/ha
+"Coconuts, in shell",2015,Yield,5367.3,kg/ha
+"Coconuts, in shell",2016,Yield,5448.8,kg/ha
+"Coconuts, in shell",2017,Yield,5366.1,kg/ha
+"Coconuts, in shell",2018,Yield,7826.9,kg/ha
+"Coconuts, in shell",2019,Yield,6825.7,kg/ha
+"Coconuts, in shell",2020,Yield,6445.5,kg/ha
+"Coconuts, in shell",2021,Yield,6503.4,kg/ha
+"Coconuts, in shell",2022,Yield,6182.5,kg/ha
+"Coconuts, in shell",2023,Yield,6220.0,kg/ha
+"Coffee, green",2013,Yield,845.6,kg/ha
+"Coffee, green",2014,Yield,798.6,kg/ha
+"Coffee, green",2015,Yield,772.6,kg/ha
+"Coffee, green",2016,Yield,801.0,kg/ha
+"Coffee, green",2017,Yield,694.3,kg/ha
+"Coffee, green",2018,Yield,765.1,kg/ha
+"Coffee, green",2019,Yield,766.7,kg/ha
+"Coffee, green",2020,Yield,712.6,kg/ha
+"Coffee, green",2021,Yield,789.7,kg/ha
+"Coffee, green",2022,Yield,774.2,kg/ha
+"Coffee, green",2023,Yield,760.2,kg/ha
+Maize (corn),2013,Yield,2572.6,kg/ha
+Maize (corn),2014,Yield,2572.6,kg/ha
+Maize (corn),2015,Yield,2610.7,kg/ha
+Maize (corn),2016,Yield,2597.2,kg/ha
+Maize (corn),2017,Yield,2688.6,kg/ha
+Maize (corn),2018,Yield,3065.3,kg/ha
+Maize (corn),2019,Yield,3070.2,kg/ha
+Maize (corn),2020,Yield,3006.1,kg/ha
+Maize (corn),2021,Yield,3199.3,kg/ha
+Maize (corn),2022,Yield,3387.2,kg/ha
+Maize (corn),2023,Yield,3544.9,kg/ha
+"Peas, green",2013,Yield,9518.2,kg/ha
+"Peas, green",2014,Yield,8922.9,kg/ha
+"Peas, green",2015,Yield,9773.1,kg/ha
+"Peas, green",2016,Yield,9660.6,kg/ha
+"Peas, green",2017,Yield,10084.9,kg/ha
+"Peas, green",2018,Yield,10040.7,kg/ha
+"Peas, green",2019,Yield,10076.1,kg/ha
+"Peas, green",2020,Yield,10295.8,kg/ha
+"Peas, green",2021,Yield,10310.4,kg/ha
+"Peas, green",2022,Yield,10478.0,kg/ha
+"Peas, green",2023,Yield,10824.3,kg/ha
+Potatoes,2013,Yield,22760.6,kg/ha
+Potatoes,2014,Yield,22922.4,kg/ha
+Potatoes,2015,Yield,23125.7,kg/ha
+Potatoes,2016,Yield,20508.7,kg/ha
+Potatoes,2017,Yield,22306.1,kg/ha
+Potatoes,2018,Yield,23954.2,kg/ha
+Potatoes,2019,Yield,23097.1,kg/ha
+Potatoes,2020,Yield,23677.2,kg/ha
+Potatoes,2021,Yield,24123.7,kg/ha
+Potatoes,2022,Yield,25236.3,kg/ha
+Potatoes,2023,Yield,25789.9,kg/ha
+Rice,2013,Yield,3624.3,kg/ha
+Rice,2014,Yield,3586.8,kg/ha
+Rice,2015,Yield,3600.2,kg/ha
+Rice,2016,Yield,3740.1,kg/ha
+Rice,2017,Yield,3863.7,kg/ha
+Rice,2018,Yield,3956.7,kg/ha
+Rice,2019,Yield,4083.6,kg/ha
+Rice,2020,Yield,4075.7,kg/ha
+Rice,2021,Yield,4196.2,kg/ha
+Rice,2022,Yield,4257.1,kg/ha
+Rice,2023,Yield,4322.3,kg/ha
+Sugar cane,2013,Yield,68240.0,kg/ha
+Sugar cane,2014,Yield,70569.5,kg/ha
+Sugar cane,2015,Yield,71466.1,kg/ha
+Sugar cane,2016,Yield,70393.5,kg/ha
+Sugar cane,2017,Yield,69001.4,kg/ha
+Sugar cane,2018,Yield,80198.4,kg/ha
+Sugar cane,2019,Yield,80104.5,kg/ha
+Sugar cane,2020,Yield,80496.6,kg/ha
+Sugar cane,2021,Yield,83566.2,kg/ha
+Sugar cane,2022,Yield,84906.3,kg/ha
+Sugar cane,2023,Yield,83348.7,kg/ha
+Tea leaves,2013,Yield,9319.5,kg/ha
+Tea leaves,2014,Yield,8690.4,kg/ha
+Tea leaves,2015,Yield,9460.7,kg/ha
+Tea leaves,2016,Yield,9415.0,kg/ha
+Tea leaves,2017,Yield,9267.9,kg/ha
+Tea leaves,2018,Yield,9357.1,kg/ha
+Tea leaves,2019,Yield,9484.9,kg/ha
+Tea leaves,2020,Yield,9767.2,kg/ha
+Tea leaves,2021,Yield,9951.9,kg/ha
+Tea leaves,2022,Yield,10101.1,kg/ha
+Tea leaves,2023,Yield,10250.4,kg/ha
+Wheat,2013,Yield,3153.8,kg/ha
+Wheat,2014,Yield,3145.7,kg/ha
+Wheat,2015,Yield,2749.6,kg/ha
+Wheat,2016,Yield,3033.9,kg/ha
+Wheat,2017,Yield,3199.9,kg/ha
+Wheat,2018,Yield,3368.2,kg/ha
+Wheat,2019,Yield,3533.4,kg/ha
+Wheat,2020,Yield,3439.8,kg/ha
+Wheat,2021,Yield,3520.8,kg/ha
+Wheat,2022,Yield,3537.3,kg/ha
+Wheat,2023,Yield,3520.7,kg/ha
